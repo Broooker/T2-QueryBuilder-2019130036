@@ -18,13 +18,7 @@ class EmployeeController extends Controller
 
     public function insert()
     {
-        // $result = DB::insert(
-        //     "INSERT INTO employees (nip, nama_pegawai, tanggal_lahir, jabatan, tanggal_masuk, status,
-        //     created_at, updated_at)
-        //     VALUES ('IT001', 'Charles Bastian', '20 Maret 2001', 'IT', '1 Januari 2019', 1, NOW(), NOW())"
-        // );
-
-        // dump($result);
+        // 0 
 
         // $result = DB::insert(
         //     "INSERT INTO employees (nip, nama_pegawai, tanggal_lahir, jabatan, tanggal_masuk, status) VALUES
